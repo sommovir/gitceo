@@ -1,2 +1,4 @@
 non si sa 
 cane 
+gatto 
+pesce 
